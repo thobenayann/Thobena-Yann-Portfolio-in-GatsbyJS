@@ -25,7 +25,7 @@ const About = () => {
   return (
     <section id="about">
       <Container>
-        <Title title="About Me" />
+        <Title title="A propos de moi" />
         <Row className="about-wrapper">
           <Col md={6} sm={12}>
             <Fade bottom duration={1000} delay={600} distance="30px">
@@ -43,10 +43,10 @@ const About = () => {
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo ||
-                    'Il s\'agit d\'un métier qui me passionne, qui me permet d\'apprendre tous les jours et souvent par moi même mais avec en plus, cette sensation que tout est possible pour peu que l\'ai une connexion internet à portée main. J\'ai été formé au sein de l\'école O\'Clock depuis le mois d\'Août et j\'ai pu réaliser un projet de fin d\'étude durant 1 mois en tant que Git Master et Développeur Front. Pour se faire, j\'ai choisi d\'apprendre à maîtriser React et Redux afin d\'optimiser toujours plus l\'expérience des utilisateurs.'}
+                    'Il s\'agit d\'un métier qui me passionne, qui me permet d\'apprendre tous les jours et souvent par moi même mais avec en plus, cette sensation que tout est possible pour peu que l\'on ai une connexion internet à portée de main. J\'ai été formé au sein de l\'école O\'Clock depuis le mois d\'Août et j\'ai pu réaliser un projet de fin d\'étude durant 1 mois en tant que Git Master et Développeur Front. Pour se faire, j\'ai choisi d\'apprendre à maîtriser React et Redux afin d\'optimiser toujours plus l\'expérience des utilisateurs.'}
                 </p>
                 <p className="about-wrapper__info-text">
-                  {paragraphThree || 'De nature curieux et très impliqué, je m\'intéresse à tout nouveau défi, je m\'adapte très facilement en équipe et j\'aime partager mon expérience, aussi petite soit elle ! Mon nouvel objectif est de trouver une entreprise qui m\'accueille pour un stage d\'1 an en alternance afin de parfaire mes connaissances de développeur Full Stack, j\'aimerais ainsi me préparer à passer le titre de "Concepteur Développeur d\'Application"'}
+                  {paragraphThree || 'De nature curieux et très impliqué, je m\'intéresse à tout nouveau défi, je m\'adapte très facilement en équipe et j\'aime partager mon expérience, aussi petite soit elle ! Mon nouvel objectif est de trouver une entreprise qui m\'accueille pour un stage d\'1 an en alternance afin de parfaire mes connaissances de développeur Full Stack, j\'aimerais ainsi me préparer à passer le titre professionnel de "Concepteur Développeur d\'Application"'}
                 </p>
                 {resume && (
                   <span className="d-flex mt-3">
@@ -56,7 +56,7 @@ const About = () => {
                       className="cta-btn cta-btn--resume"
                       href="https://entreprise.pole-emploi.fr/docnums/portfolio-usager/F0lh8f23FXyBhdCFr9iVSuTcQDSKkQAe/CV_THOBENA_Yann_D%C3%A9veloppeur_Web_FullStack_JS_react.pdf?Expires=1614003424&Signature=lSCWKnsILkbuxBmNPMEjKSM7xSQ%3D"
                     >
-                      Resume
+                      Curriculum Vitae
                     </a>
                   </span>
                 )}
