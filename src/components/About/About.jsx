@@ -39,14 +39,14 @@ const About = () => {
               <div className="about-wrapper__info">
                 <p className="about-wrapper__info-text">
                   {paragraphOne ||
-                    'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendu distinctioaperiam earum dolor voluptatum consequatur blanditiis inventore debitis fuga numquam voluptate architecto itaque molestiae.'}
+                    'Après 10 ans passés dans le commerce et la vente de matériel industriel, à manager et atteindre des objectifs de performance et de satisfaction client, j\'ai choisi de donner un nouvel élan à ma carrière et de relever un nouveau défi: celui de devenir déveoppeur web !'}
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo ||
-                    'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendu distinctioaperiam earum dolor voluptatum consequatur blanditiis inventore debitis fuga numquam voluptate architecto itaque molestiae.'}
+                    'Il s\'agit d\'un métier qui me passionne, qui me permet d\'apprendre tous les jours et souvent par moi même mais avec en plus, cette sensation que tout est possible pour peu que l\'ai une connexion internet à portée main. J\'ai été formé au sein de l\'école O\'Clock depuis le mois d\'Août et j\'ai pu réaliser un projet de fin d\'étude durant 1 mois en tant que Git Master et Développeur Front. Pour se faire, j\'ai choisi d\'apprendre à maîtriser React et Redux afin d\'optimiser toujours plus l\'expérience des utilisateurs.'}
                 </p>
                 <p className="about-wrapper__info-text">
-                  {paragraphThree || 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.'}
+                  {paragraphThree || 'De nature curieux et très impliqué, je m\'intéresse à tout nouveau défi, je m\'adapte très facilement en équipe et j\'aime partager mon expérience, aussi petite soit elle ! Mon nouvel objectif est de trouver une entreprise qui m\'accueille pour un stage d\'1 an en alternance afin de parfaire mes connaissances de développeur Full Stack, j\'aimerais ainsi me préparer à passer le titre de "Concepteur Développeur d\'Application"'}
                 </p>
                 {resume && (
                   <span className="d-flex mt-3">
@@ -54,7 +54,7 @@ const About = () => {
                       target="_blank"
                       rel="noopener noreferrer"
                       className="cta-btn cta-btn--resume"
-                      href={resume}
+                      href="https://entreprise.pole-emploi.fr/docnums/portfolio-usager/F0lh8f23FXyBhdCFr9iVSuTcQDSKkQAe/CV_THOBENA_Yann_D%C3%A9veloppeur_Web_FullStack_JS_react.pdf?Expires=1614003424&Signature=lSCWKnsILkbuxBmNPMEjKSM7xSQ%3D"
                     >
                       Resume
                     </a>
