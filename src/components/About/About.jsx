@@ -54,7 +54,7 @@ const About = () => {
                       target="_blank"
                       rel="noopener noreferrer"
                       className="cta-btn cta-btn--resume"
-                      href="https://entreprise.pole-emploi.fr/docnums/portfolio-usager/F0lh8f23FXyBhdCFr9iVSuTcQDSKkQAe/CV_THOBENA_Yann_D%C3%A9veloppeur_Web_FullStack_JS_react.pdf?Expires=1614003424&Signature=lSCWKnsILkbuxBmNPMEjKSM7xSQ%3D"
+                      href="https://drive.google.com/file/d/1YE76rnVy-z6eSSTtZPwTzkBuWe0b0OmO/view?usp=sharing"
                     >
                       Curriculum Vitae
                     </a>
