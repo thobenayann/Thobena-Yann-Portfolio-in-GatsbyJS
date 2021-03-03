@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'Après 10 ans passés dans le commerce et la vente de matériel industriel, à manager et atteindre des objectifs de performance et de satisfaction client, j\'ai choisi de donner un nouvel élan à ma carrière et de relever un nouveau défi: celui de devenir développeur web !',
   paragraphTwo: 'Il s\'agit d\'un métier qui me passionne, qui me permet d\'apprendre tous les jours et souvent par moi même mais avec en plus, cette sensation que tout est possible pour peu que l\'on ai une connexion internet à portée de main. J\'ai été formé au sein de l\'école O\'Clock depuis le mois d\'Août et j\'ai pu réaliser un projet de fin d\'étude durant 1 mois en tant que Git Master et Développeur Front. Pour se faire, j\'ai choisi d\'apprendre à maîtriser React et Redux afin d\'optimiser toujours plus l\'expérience des utilisateurs.',
   paragraphThree: 'De nature curieux et très impliqué, je m\'intéresse à tout nouveau défi, je m\'adapte très facilement en équipe et j\'aime partager mon expérience, aussi petite soit elle ! Mon nouvel objectif est de trouver une entreprise qui m\'accueille pour un stage d\'1 an en alternance afin de parfaire mes connaissances de développeur Full Stack, j\'aimerais ainsi me préparer à passer le titre professionnel de "Concepteur Développeur d\'Application"',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1YE76rnVy-z6eSSTtZPwTzkBuWe0b0OmO/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
