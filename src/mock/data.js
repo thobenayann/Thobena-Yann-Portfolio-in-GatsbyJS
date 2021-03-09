@@ -44,6 +44,15 @@ export const projectsData = [
     url: 'https://find-on-github.netlify.app/',
     repo: 'https://github.com/thobenayann/find-on-github', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'jeu-rpg-thobenayann.png',
+    title: 'Petit jeu de RPG pour revoir les fondamentaux du code',
+    info: 'Le but du joueur est de rejoindre la mine d\'or',
+    info2: 'Site réalisé uniquement en HTML, CSS et Javascript, le but étant de dynamiser la page à l\'aide d\'un JS basique',
+    url: 'https://jeu-rpg-thobenayann.netlify.app/',
+    repo: 'https://github.com/thobenayann/jeu-rpg-thobenayann', // if no repo, the button will not show up
+  },
     {
     id: nanoid(),
     img: 'Challenge-wildschool.png',
