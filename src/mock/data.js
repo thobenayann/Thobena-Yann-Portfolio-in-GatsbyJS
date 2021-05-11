@@ -46,6 +46,15 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'Easy-bank-landing-page-Desktop.jpg',
+    title: 'Easy Bank Landing Page',
+    info: 'Création d\'une landing page de banque responsive avec plusieurs animations agréables pour les utilisateurs',
+    info2: 'Projet réalisé en React, la librairie de composant Javascript, utilisant SASS en tant que pré-processeur CSS. Le projet est un défi proposé par le site FrontendMentor. La vue mobile est prévue pour des écrans d\'une largeur de moins de 375 pixels.',
+    url: 'https://thobenayann.github.io/easybanck-landing-page-master-react/',
+    repo: 'https://github.com/thobenayann/easybanck-landing-page-master-react', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'jeu-rpg-thobenayann.png',
     title: 'Petit jeu de RPG pour revoir les fondamentaux du code',
     info: 'Le but du joueur est de rejoindre la mine d\'or',
