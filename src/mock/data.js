@@ -49,7 +49,7 @@ export const projectsData = [
     img: 'Easy-bank-landing-page-Desktop.jpg',
     title: 'Easy Bank Landing Page',
     info: 'Création d\'une landing page de banque responsive avec plusieurs animations agréables pour les utilisateurs',
-    info2: 'Projet réalisé en React, la librairie de composant Javascript, utilisant SASS en tant que pré-processeur CSS. Le projet est un défi proposé par le site FrontendMentor. La vue mobile est prévue pour des écrans d\'une largeur de moins de 375 pixels.',
+    info2: 'Projet réalisé en React, la librairie de composant Javascript, utilisant SASS en tant que pré-processeur CSS. Le projet est un défi proposé par le site FrontendMentor. La vue mobile est prévue pour des écrans d\'une largeur de moins de 375 pixels. Ce petit projet m\'a permis notamment d\'apprendre à interagir avec la couleur des svg simplement grâce au CSS et également, créer un burger menu très efficace et intéractif pour la version mobile',
     url: 'https://thobenayann.github.io/easybanck-landing-page-master-react/',
     repo: 'https://github.com/thobenayann/easybanck-landing-page-master-react', // if no repo, the button will not show up
   },
