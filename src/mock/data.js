@@ -46,6 +46,15 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'Hulu-2.0-desktop.jpg',
+    title: 'Hulu 2.0',
+    info: 'Création d\'un clone de site de streaming avec une approche Mobile First.',
+    info2: 'Première expérience avec Next.JS en tant framework React ainsi que Tailwind CSS en framework CSS. Next.JS détient de nombreux avantages dont le système de routage intégré basé sur un répertoire "Pages" et l\'aspect Serveur Side Rendering pour l\'optimisation du référencement. Cette application consomme également une api gratuite permettant d\'accéder aux données de films à regarder en streaming (https://www.themoviedb.org/?language=fr).',
+    url: 'https://hulu-v2-clone.netlify.app/',
+    repo: 'https://github.com/thobenayann/hulu-yt-clone', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'Easy-bank-landing-page-Desktop.jpg',
     title: 'Easy Bank Landing Page',
     info: 'Création d\'une landing page de banque responsive avec plusieurs animations agréables pour les utilisateurs',
