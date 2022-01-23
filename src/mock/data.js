@@ -28,6 +28,15 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'ASH-capture.jpg',
+    title: 'ASH 31',
+    info: 'Refonte du site de la société ASH dans le 31',
+    info2: 'Le projet de l\'entreprise ASH était de remettre aux goûts du jour leur site vitrine afin de gagner en visibilité et afficher un nouveau visage à l\arriver des 30 ans de son existence. J\'ai réalisé ce projet en découvrant le CMS Strapi pour créer une interface backend permettant à mon client de facilement gérer ses produits et promotions. Côté front-end, j\'ai utilisé le framework Next.JS basé sur la librairie React. Le projet a duré 4 mois, du cachier des charges jusqu\'à la livraison, en totale autonomie et en effectuant des réunions régulières avec le client.',
+    url: 'https://ash31.Fr',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'happy-news-website.png',
     title: 'Happy News',
     info: 'Projet de fin d\'étude au sein de l\'école O\'Clock',
